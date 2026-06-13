@@ -89,8 +89,6 @@ customer-churn-analysis/
 
 ├── README.md
 
-└── requirements.txt
-
 ## Future Improvements
 
 * Hyperparameter tuning
